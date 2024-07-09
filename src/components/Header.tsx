@@ -3,7 +3,7 @@ export default function Header() {
     <header className="bg-[#004D1E] shadow">
       <div className="container mx-auto p-4 flex justify-between items-center">
         <a href="/" className="flex items-center space-x-2">
-          <img className="w-16" src="public/logo.png" alt="the logo" />
+          <img className="w-16" src="/logo.png" alt="the logo" />
           <span className="text-xl font-extrabold text-white">Pam Golding</span>
         </a>{" "}
         <nav>
